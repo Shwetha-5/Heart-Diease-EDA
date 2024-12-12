@@ -20,10 +20,14 @@ The dataset used in this project is the **Heart Disease UCI dataset**, which is 
 - **Scikit-learn**: For building and evaluating machine learning models.
 - **XGBoost**: For the XGBoost model.
 
-**ROC Curve:** 
-  A plot that illustrates the trade-off between sensitivity and specificity.
+![download (2)](https://github.com/user-attachments/assets/62136119-937e-49d7-92a0-bc3373b83d74)
+
 **Feature Importance:** 
   Visualizes the most important features for making predictions using Random Forest and XGBoost models.
+  
+![download](https://github.com/user-attachments/assets/95bc7552-416f-4c4e-9fc3-37d990fc948b)
+
+![download (1)](https://github.com/user-attachments/assets/eb302bb8-9cc3-4964-b6f3-5e50b086e493)
 
 
-![Heart Disease Prediction Workflow](assets/images/model-compare.png "Workflow of Heart Disease Prediction")
+
