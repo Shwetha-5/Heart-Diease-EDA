@@ -24,3 +24,6 @@ The dataset used in this project is the **Heart Disease UCI dataset**, which is 
   A plot that illustrates the trade-off between sensitivity and specificity.
 **Feature Importance:** 
   Visualizes the most important features for making predictions using Random Forest and XGBoost models.
+
+
+![Heart Disease Prediction Workflow](assets/images/model-compare.png "Workflow of Heart Disease Prediction")
